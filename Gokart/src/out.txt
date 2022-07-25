@@ -1,0 +1,190 @@
+ Date/Time: 7/25/2022 15:17:19.00
+Location: 17.359837,78.534520  Date/Time: 7/25/2022 15:17:20.00
+Location: 17.359837,78.534520  Date/Time: 7/25/2022 15:17:20.00
+Location: 17.359837,78.534520  Date/Time: 7/25/2022 15:17:20.00
+Location: 17.359837,78.534520  Date/Time: 7/25/2022 15:17:20.00
+Location: 17.359837,78.534520  Date/Time: 7/25/2022 15:17:20.00
+Location: 17.359837,78.534520  Date/Time: 7/25/2022 15:17:20.00
+Location: 17.359837,78.534520  Date/Time: 7/25/2022 15:17:20.00
+Location: 17
+
+
+7.359847,78.534486  Date/Time: 7/25/2022 15:19:54.00
+Location: 17.359847,78.534486  Date/Time: 7/25/2022 15:19:54.00
+Location: 17.359847,78.534486  Date/Time: 7/25/2022 15:19:55.00
+Location: 17.359847,78.534486  Date/Time: 7/25/2022 15:19:55.00
+Location: 17.359847,78.534486  Date/Time: 7/25/2022 15:19:55.00
+Location: 17.359847,78.534486  Date/Time: 7/25/2022 15:19:55.00
+Location: 17.359847,78.534486  Date/Time: 7/25/2022 15:19:55.00
+Location: 17.359847,78.534486  Date/Time: 7/25/2022 15:19:55.00
+Location: 17.359847,78.534486  Date/Time: 7/25/2022 15:19:55.00
+Location: 17.359847,78.534486  Date/Time: 7/25/2022 15:19:55.00
+Location: 17.359847,78.534486  Date/Time: 7/25/2022 15:19:55.00
+Location: 17.359847,78.534486  Da
+
+
+
+NEO 6
+17.359841,78.534491  Date/Time: 7/25/2022 15:28:46.00
+Location: 17.359841,78.534491  Date/Time: 7/25/2022 15:28:46.00
+Location: 17.359841,78.534491  Date/Time: 7/25/2022 15:28:46.00
+Location: 17.359841,78.534491  Date/Time: 7/25/2022 15:28:47.00
+Location: 17.359841,78.534491  Date/Time: 7/25/2022 15:28:47.00
+Location: 17.359841,78.534491  Date/Time: 7/25/2022 15:28:47.00
+Location: 17.359841,78.534491  Date/Time: 7/25/2022 15:28:47.00
+Location: 17.359841,78.534491  Date/Time: 7/25/2022 15:28:47.00
+Location: 17.359841,78.534491
+
+
+dump
+
+
+Speed in km/h = 0.11
+Raw course in degrees = 0
+Course in degrees = 0.00
+Raw altitude in centimeters = 49240
+Altitude in meters = 492.40
+Altitude in miles = 0.31
+Altitude in kilometers = 0.49
+Altitude in feet = 1615.49
+Number os satellites in use = 12
+HDOP = 79
+Latitude= 17.359848 Longitude= 78.534428
+Raw latitude = +17
+359847833
+Raw longitude = +78
+534427500
+Raw date DDMMYY = 250722
+Year = 2022
+Month = 7
+Day = 25
+Raw time in HHMMSSCC = 15480500
+Hour = 15
+Minute = 48
+Second = 5
+Centisecond = 0
+Raw speed in 100ths/knot = 6
+Speed in knots/h = 0.06
+Speed in miles/h = 0.07
+Speed in m/s = 0.03
+Speed in km/h = 0.11
+Raw course in degrees = 0
+Course in degrees = 0.00
+Raw altitude in centimeters = 49240
+Altitude in meters = 492.40
+Altitude in miles = 0.31
+Altitude in kilometers = 0.49
+Altitude in feet = 1615.49
+Number os satellites in use = 12
+HDOP = 79
+Latitude= 17.359848 Longitude= 78.534428
+Raw latitude = +17
+359847833
+Raw longitude = +78
+534428167
+Raw date DDMMYY = 250722
+Year = 2022
+Month = 7
+Day = 25
+Raw time in HHMMSSCC = 15480600
+Hour = 15
+Minute = 48
+Second = 6
+Centisecond = 0
+Raw speed in 100ths/knot = 3
+Speed in knots/h = 0.03
+Speed in miles/h = 0.03
+Speed in m/s = 0.02
+Speed in km/h = 0.06
+Raw course in degrees = 0
+Course in degrees = 0.00
+Raw altitude in centimeters = 49240
+Altitude in meters = 492.40
+Altitude in miles = 0.31
+Altitude in kilometers = 0.49
+Altitude in feet = 1615.49
+Number os satellites in use = 12
+HDOP = 79
+Latitude= 17.359848 Longitude= 78.534428
+Raw latitude = +17
+359847833
+Raw longitude = +78
+534428167
+Raw date DDMMYY = 250722
+Year = 2022
+Month = 7
+Day = 25
+Raw time in HHMMSSCC = 15480600
+Hour = 15
+Minute = 48
+Second = 6
+Centisecond = 0
+Raw speed in 100ths/knot = 3
+Speed in knots/h = 0.03
+Speed in miles/h = 0.03
+Speed in m/s = 0.02
+Speed in km/h = 0.06
+Raw course in degrees = 0
+Course in degrees = 0.00
+Raw altitude in centimeters = 49250
+Altitude in meters = 492.50
+Altitude in miles = 0.31
+Altitude in kilometers = 0.49
+Altitude in feet = 1615.81
+Number os satellites in use = 11
+HDOP = 92
+Latitude= 17.359848 Longitude= 78.534429
+Raw latitude = +17
+359847667
+Raw longitude = +78
+534428667
+Raw date DDMMYY = 250722
+Year = 2022
+Month = 7
+Day = 25
+Raw time in HHMMSSCC = 15480700
+Hour = 15
+Minute = 48
+Second = 7
+Centisecond = 0
+Raw speed in 100ths/knot = 3
+Speed in knots/h = 0.03
+Speed in miles/h = 0.03
+Speed in m/s = 0.02
+Speed in km/h = 0.06
+Raw course in degrees = 0
+Course in degrees = 0.00
+Raw altitude in centimeters = 49250
+Altitude in meters = 492.50
+Altitude in miles = 0.31
+Altitude in kilometers = 0.49
+Altitude in feet = 1615.81
+Number os satellites in use = 11
+HDOP = 92
+Latitude= 17.359848 Longitude= 78.534429
+Raw latitude = +17
+359847667
+Raw longitude = +78
+534428667
+Raw date DDMMYY = 250722
+Year = 2022
+Month = 7
+Day = 25
+Raw time in HHMMSSCC = 15480700
+Hour = 15
+Minute = 48
+Second = 7
+Centisecond = 0
+Raw speed in 100ths/knot = 3
+Speed in knots/h = 0.03
+Speed in miles/h = 0.03
+Speed in m/s = 0.02
+Speed in km/h = 0.06
+Raw course in degrees = 0
+Course in degrees = 0.00
+Raw altitude in centimeters = 49260
+Altitude in meters = 492.60
+Altitude in miles = 0.31
+Altitude in kilometers = 0.49
+Altitude in feet = 1616.14
+Number os satellites 
